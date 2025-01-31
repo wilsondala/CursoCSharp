@@ -1,10 +1,7 @@
-# Curso de C#
-Curso de C# onde será aplicado através de um App todo o conhecimento aprendido no curso.
-
-![image](https://user-images.githubusercontent.com/6475229/175944773-a993c984-dbd5-4842-8fe3-710770c2ea8f.png)
-
-
-Se interessou pelo curso, acesse
-https://www.udemy.com/course/curso-csharp-2022/?referralCode=37031923AC4C0737E757
-
-
+//Aplicativo de lista de compra onde cada lista deverá ter um nome e uma data e também os itens desejados  
+// Cada item deverá ter um nome e qual grupo pertence (mercado, escritório, manutenção)  
+// Será possível editar a lista de compra para informar o valor pago no item desejado e se aquele item já foi comprado  
+// O aplicativo deverá ter três relatórios por lista de compra  
+// ===> Total em reais dos produtos comprados  
+// ===> Total em reais por grupo de produtos comprados  
+// ===> Total de produtos que não foram comprados  
